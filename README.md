@@ -28,5 +28,8 @@ The project contains the following SQL queries:
 
 11. **Average Prices by Storage**: This shows the average price of laptops depending on their storage size.
 
+![Screenshot of Project](https://github.com/MariamGhanim/Laptop-Price-Analysis/blob/main/dashboardpic1.png)
+![Screenshot of Project](https://github.com/MariamGhanim/Laptop-Price-Analysis/blob/main/dashboardpic2.png))
+
 Video for the dashboard :
-![video](https://github.com/MariamGhanim/Laptop-Price-Analysis/blob/main/DashboardRec%20(1).mp4)
+![here](https://github.com/MariamGhanim/Laptop-Price-Analysis/blob/main/DashboardRec%20(1).mp4)
