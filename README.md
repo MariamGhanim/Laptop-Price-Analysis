@@ -27,3 +27,6 @@ The project contains the following SQL queries:
 10. **Storage Size and Price Relationship Across Screen Sizes**: This looks at how storage size affects laptop prices based on the screen size.
 
 11. **Average Prices by Storage**: This shows the average price of laptops depending on their storage size.
+
+Video for the dashboard :
+https://github.com/MariamGhanim/Laptop-Price-Analysis/blob/main/DashboardRec%20(1).mp4
