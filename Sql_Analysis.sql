@@ -1,3 +1,5 @@
+-- ALL Queries
+
 USE laptop_data;
 -- 1)  average laptop price by brand
 SELECT Brand, FLOOR(AVG(`Price ($)`)) AS Avg_Price
