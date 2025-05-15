@@ -79,4 +79,4 @@ ORDER BY `Screen Size (inch)`, `Storage` ;
 SELECT Storage, FLOOR(AVG(`Price ($)`)) AS Avg_Price
 FROM laptop_prices
 GROUP BY Storage
-ORDER BY Avg_Price DESC;
+ORDER BY Avg_Price ASC;
